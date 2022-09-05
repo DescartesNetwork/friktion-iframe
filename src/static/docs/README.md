@@ -1,3 +1,3 @@
-# My App
+# Smarter returns on your crypto
 
-A sample project for Sentre developers
+Generate sustainable yield and diversify your portfolio with strategies powered by Friktion
