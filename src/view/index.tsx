@@ -13,8 +13,10 @@ const View = () => {
   const setBackground = useSetBackground()
 
   useEffect(() => {
-    setBackground({ light: '#18192f', dark: '#18192f' })
+    setBackground({ light: '#020103', dark: '#020103' })
   }, [setBackground])
+
+  console.log('1')
 
   return (
     <EmbededView
