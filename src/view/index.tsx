@@ -23,7 +23,7 @@ const View = () => {
       appId={appId}
       src={'https://friktion.fi/'}
       title="Your destination for smarter and safer returns on crypto"
-      wallet={window.sentre.wallet}
+      wallet={window.sentre.solana}
     />
   )
 }
